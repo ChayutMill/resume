@@ -300,12 +300,12 @@ div:focus {
 
 .btn-black {
   width: 100%;
-  background-color: black;
+  background-color: #222222;
 }
 .btn-gray {
-  background-color: gray;
+  background-color: #888888;
 }
 .btn-white {
-  background-color:white;
+  background-color:#EEEEEE;
 }
 /* @end */

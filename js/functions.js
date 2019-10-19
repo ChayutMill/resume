@@ -53,14 +53,14 @@ let btn3 = document.getElementById('btn3');
 
 
 btn1.addEventListener('click', function() {
-    bgHead.style.backgroundColor = "black";
+    bgHead.style.backgroundColor = "#222222";
 });
 
 btn2.addEventListener('click', function() {
-    bgHead.style.backgroundColor = "gray";
+    bgHead.style.backgroundColor = "#888888";
 });
 
 btn3.addEventListener('click', function() {
-    bgHead.style.backgroundColor = "white";
+    bgHead.style.backgroundColor = "#EEEEEE";
 });
 
